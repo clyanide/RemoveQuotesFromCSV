@@ -1,0 +1,52 @@
+﻿Installing assembly 'C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.InstallLog
+   assemblypath = C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.InstallLog
+   assemblypath = C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.exe
+Installing assembly 'C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.InstallLog
+   assemblypath = C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.InstallLog
+   assemblypath = C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.InstallLog
+   assemblypath = C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.InstallLog
+   assemblypath = C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.InstallLog
+   assemblypath = C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.exe
+Installing service RemoveQuotesFromCSV...
+Service RemoveQuotesFromCSV has been successfully installed.
+Creating EventLog source RemoveQuotesFromCSV in log Application...
+Committing assembly 'C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.InstallLog
+   assemblypath = C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.exe

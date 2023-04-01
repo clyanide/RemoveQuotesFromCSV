@@ -1,0 +1,10 @@
+C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.exe.config
+C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.exe
+C:\Users\clayt\source\repos\RemoveQuotesFromCSV\bin\Debug\RemoveQuotesFromCSV.pdb
+C:\Users\clayt\source\repos\RemoveQuotesFromCSV\obj\Debug\RemoveQuotesFromCSV.csproj.AssemblyReference.cache
+C:\Users\clayt\source\repos\RemoveQuotesFromCSV\obj\Debug\RemoveQuotesFromCSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\clayt\source\repos\RemoveQuotesFromCSV\obj\Debug\RemoveQuotesFromCSV.ProjectInstaller.resources
+C:\Users\clayt\source\repos\RemoveQuotesFromCSV\obj\Debug\RemoveQuotesFromCSV.csproj.GenerateResource.cache
+C:\Users\clayt\source\repos\RemoveQuotesFromCSV\obj\Debug\RemoveQuotesFromCSV.csproj.CoreCompileInputs.cache
+C:\Users\clayt\source\repos\RemoveQuotesFromCSV\obj\Debug\RemoveQuotesFromCSV.exe
+C:\Users\clayt\source\repos\RemoveQuotesFromCSV\obj\Debug\RemoveQuotesFromCSV.pdb
