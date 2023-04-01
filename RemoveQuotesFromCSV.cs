@@ -11,6 +11,7 @@ using System.IO;
 
 namespace RemoveQuotesFromCSV
 {
+    // Install instructions: https://www.c-sharpcorner.com/article/create-windows-services-in-c-sharp/#:~:text=Let's%20create%20a%20Windows%20Service%20in%20C%23%20using%20Visual%20Studio.&text=Open%20Visual%20Studio%2C%20click%20File,and%20click%20the%20OK%20button.&text=Go%20to%20Visual%20C%23%20%2D%3E%22,name%20and%20then%20click%20OK.
     public partial class RemoveQuotesFromCSV : ServiceBase
     {
         private FileSystemWatcher watcher;
